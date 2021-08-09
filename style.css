@@ -1,0 +1,77 @@
+.card_img_snap_achive {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 45%;
+  float: left;
+  margin: 2.5%;
+  padding: 10px;
+  height:500px;
+  /*height: 200px;*/
+border-radius: 5px 5px 0 0;
+ 
+
+}
+.card_img_snap_achive img{
+	 width:100%;
+                height:90%;
+                object-fit:fill;
+	border-radius: 5px 5px 0 0;
+
+}
+.card_img_snap_achive:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card_container {
+  padding: 8px 0px;
+ 
+  /*color: red;*/
+  /*border: 1px solid red;*/
+}
+
+.image_card_Fun{
+	border-radius: 8px;
+ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+   width: 50%;
+}
+
+.image_card_Fun:hover {
+  box-shadow: 0 8px 16px 0 green;
+}
+
+/*.image_card {*/
+	/*width: 45%;*/
+	/*height: 17%;*/
+	/*height: 1%;*/
+	/*obj*/
+	 /*height: 60%;*/
+	 /*height: auto;*/
+	 /*object-fit: contain;*/
+/*}*/
+.page-header{
+	margin-top: 8%;
+}
+.profile_image{
+	border-radius: 100%;
+	width: 100px;
+	height: 100px;
+	float: left;
+	 margin-left: 5%;
+  	 margin-right: 5%;
+  	
+}
+body p{
+	 font-family: 'Sofia';font-size: 22px;	
+	 /*font-family: 'Aclonica';font-size: 22px;*/
+}
+body h2{
+	 font-family: 'Sofia';font-size: 44px;
+	 /*font-family: 'Aclonica';font-size: 44px;*/
+	 /*font-family: 'Aclonica';*/
+}
+body h4{
+	 font-family: 'Sofia';font-size: 22px;
+	 /*font-family: 'Aclonica';font-size: 44px;*/
+	 /*font-family: 'Aclonica';*/
+}
