@@ -67,6 +67,9 @@ body h4{
 
 @media (min-width: 320px)  and (max-width: 480px) 
 {
+	.card_img_snap_achive {
+		height:300px;
+	}
    .card_img_snap_achive img
    {
          height:60%;
